@@ -25,9 +25,7 @@ import {
 } from "firebase/firestore";
 import { Category } from "../store/categories/category.types";
 
-const firebaseConfig = {
-  
-};
+const firebaseConfig = ''
 
 const firebaseApp = initializeApp(firebaseConfig);
 
